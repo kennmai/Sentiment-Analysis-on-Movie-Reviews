@@ -1,3 +1,5 @@
 # NLP for Sentiment Analysis: Classifying Movie Reviews with Deep Learning
 
 <img width = "544" alt = "Sentiment Analysis" src = "https://github.com/user-attachments/assets/51dfd036-e6cf-40bb-9bf5-1f5d694c3b90" />
+
+In this project, I developed a sentiment analysis model to predict the sentiment of movie reviews from an IMDB dataset, enabling the classification of reviews as either positive or negative. Leveraging deep learning and natural language processing (NLP), the model takes in tokenized text (where each review is represented as a sequence of integers corresponding to words) and outputs the probability that the review is positive (label 1) or negative (label 0). By training the model on 50,000 labeled movie reviews, the project demonstrates how machine learning can be applied to automatically analyze audience feedback, making it possible to quickly gauge sentiment at scale. This approach has broad applications in areas such as market research, brand analysis, and content recommendation systems, allowing businesses to efficiently assess public opinion and tailor strategies based on customer sentiment.
